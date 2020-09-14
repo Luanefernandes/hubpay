@@ -1,4 +1,4 @@
-<h3>Consumindo API externa via backend SpringBoot</h3>
+<h2>Consumindo API externa via backend SpringBoot</h2>
 
 **1° Passo:** Leitura da documentação "https://developers.adiq.io/manual/ecommerce#funcionalidades" Adiq.
 <br>
@@ -159,6 +159,10 @@ Foram construídos três métodos (acessado por http://localhost:8080/paymentAdi
 - Método para Put: CancelarPagamento;
 
 **5° Passo:** Por fim, foi nececessário realizar o deploy criando o arquivo .jar (Pois a máquina em que foi criada o projeto não tem requisitos técnicos para utilizar o Docker).
-Criando o arquivo .jar, pela pasta "target" é possível executar pelo git bash.
+Criando o arquivo .jar, pela pasta "target" é possível executar pelo terminal.
+
+<p align="left">
+<img src="https://github.com/Luanefernandes/hubpay/blob/master/foto_11.JPG" width="1000" height="400">
+<p>
 
 4
